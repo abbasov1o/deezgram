@@ -1,8 +1,8 @@
 CREATOR = "@imjerin"
 WELCOME_MSG = (
-	f"Hey ..👋\n"
-        f"Welcome to Deezgram .Send your deezer link or Search Inline to download your song .\n\n"
-        f"Click /help for more information."
+	f"**Hey Champ..👋**\n"
+        f"**Welcome to Deezgram.**\n**Send your deezer link or Search Inline to download your song.**\n\n"
+        f"**Click /help for more information.**"
 )
 INFO_MSG = (
 	f"I'm using the Deethon library to download songs from deezer.com .\n"
