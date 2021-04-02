@@ -70,7 +70,7 @@ bot.loop.run_until_complete(
                 description='Get some statistics about the bot 💾'),
             types.BotCommand(
                 command='restart',
-                description='It's not for you 😂'),
+                description='He he 😂'),
        
         ]
     ))
